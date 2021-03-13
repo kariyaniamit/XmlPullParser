@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <users>
+        <user>
+            <name>Amit Kariyani</name>
+            <designation>Assistant Professor</designation>
+            <location>SVIT</location>
+        </user>
+        <user>
+            <name>Hitesh Makwana</name>
+            <designation>Agricultural Officer</designation>
+            <location>Rajkot</location>
+        </user>
+        <user>
+            <name>Pravin Jadav</name>
+            <designation>Charted Accountant</designation>
+            <location>Kheda</location>
+        </user>
+    </users>
